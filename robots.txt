@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sinichka07.github.io/svitkul.com/
